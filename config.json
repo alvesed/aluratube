@@ -2,6 +2,18 @@
   "name": "Edson F. Alves",
   "job": "Software Engenieer",
   "github": "alvesed",
+  "bg": "https://f.i.uol.com.br/fotografia/2022/06/29/165653255362bcae49e4062_1656532553_5x2_lg.jpg",
+  "favorites": [
+      {
+        "img": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg",
+        "urlfav": "https://www.youtube.com/watch?v=QsqatJxAUtk"
+      },
+      {
+        "img": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg",
+        "urlfav": "https://www.youtube.com/watch?v=UKgQsrHUG40"
+
+      }
+    ],
   "playlists": {
     "jogos": [
       {
