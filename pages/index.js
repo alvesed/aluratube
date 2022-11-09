@@ -7,8 +7,6 @@ import { StyledFavorites } from "../src/components/Favorites";
 import React from "react";
 
 function HomePage() {
-  //const estiloHomePage = { backgroundColor: "red" };
-
   //console.log(config.playlists);
   const [valorDoFiltro, setValorDoFiltro] = React.useState("");
 
@@ -40,6 +38,8 @@ export default HomePage
 
 
 const StyledHeader = styled.div`
+  background-color: ${({ theme }) => theme.backgroundLevel1};
+
   img {
     width: 80px;
     height: 80px;
